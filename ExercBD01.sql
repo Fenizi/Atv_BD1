@@ -11,3 +11,16 @@ CREATE TABLE pet
     Nascimento datetime,
     Sexo varchar(9)
     );
+    
+    INSERT INTO pet
+	VALUES("Rex" , "Vira-Lata")
+    VALUES("Bob" , "PitBull")
+    VALUES("Princesa" , "Rotteweiler")
+    VALUES("Tyson" , "Pudol")
+    VALUES("Bolinha" , "Caramelo")
+    VALUES("MauMau" , "LabradorAlemao")
+    VALUES("PcSiqueira" , "Husky")
+    VALUES("GuliGuli" , "MalamutedoAlasca")
+    VALUES("Marcos" , "Vira-Lata")
+    VALUES("Naruto" , "ChouChou")
+    
