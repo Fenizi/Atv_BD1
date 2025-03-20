@@ -12,15 +12,14 @@ CREATE TABLE pet
     Sexo varchar(9)
     );
     
-    INSERT INTO pet
-	VALUES("Rex" , "Vira-Lata")
-    VALUES("Bob" , "PitBull")
-    VALUES("Princesa" , "Rotteweiler")
-    VALUES("Tyson" , "Pudol")
-    VALUES("Bolinha" , "Caramelo")
-    VALUES("MauMau" , "LabradorAlemao")
-    VALUES("PcSiqueira" , "Husky")
-    VALUES("GuliGuli" , "MalamutedoAlasca")
-    VALUES("Marcos" , "Vira-Lata")
-    VALUES("Naruto" , "ChouChou")
+    INSERT INTO pet VALUES("Rex" , "Vira-Lata")
+   INSERT INTO pet VALUES("Bob" , "PitBull")
+   INSERT INTO pet VALUES("Princesa" , "Rotteweiler")
+   INSERT INTO pet VALUES("Tyson" , "Pudol")
+    INSERT INTO pet VALUES("Bolinha" , "Caramelo")
+   INSERT INTO pet VALUES("MauMau" , "LabradorAlemao")
+    INSERT INTO pet VALUES("PcSiqueira" , "Husky")
+    INSERT INTO pet VALUES("GuliGuli" , "MalamutedoAlasca")
+   INSERT INTO pet VALUES("Marcos" , "Vira-Lata")
+   INSERT INTO pet VALUES("Naruto" , "ChouChou")
     
