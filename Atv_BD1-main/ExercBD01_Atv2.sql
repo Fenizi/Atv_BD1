@@ -1,0 +1,10 @@
+INSERT INTO pet VALUES(1,"Rex" , "Vira-Lata","Preto","22/4/1568","Macho");
+INSERT INTO pet VALUES(2,"Bob" , "PitBull","Caramelo","25/6/1654","Femea");
+INSERT INTO pet VALUES(3,"Princesa" , "Rotteweiler","Marrom","15/5/1598","Macho");
+INSERT INTO pet VALUES(4,"Tyson" , "Pudol","Branco","30/5/1895","Femea");
+INSERT INTO pet VALUES(5,"Bolinha" , "Caramelo","Branco","29/9/1565","Femea");
+INSERT INTO pet VALUES(6,"MauMau" , "LabradorAlemao","Bege","31/7*1789","Femea");
+INSERT INTO pet VALUES(7,"PcSiqueira" , "Husky","Preto","12/4/2054","Macho");
+INSERT INTO pet VALUES(8,"GuliGuli" , "MalamutedoAlasca","Loiro","10/10/1010","Femea");
+INSERT INTO pet VALUES(9,"Marcos" , "Vira-Lata","Marrom","13/8/1235","Macho");
+INSERT INTO pet VALUES(10,"Naruto" , "ChouChou","Laranja","12/12/1212","Femea");
